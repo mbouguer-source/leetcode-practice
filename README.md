@@ -57,3 +57,15 @@ leetcode-practice/
 ├── Sliding-Window/
 ├── Trees/
 └── Dynamic-Programming/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mbouguer-source/leetcode-practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mbouguer-source/leetcode-practice/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->

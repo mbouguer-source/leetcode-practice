@@ -6,6 +6,7 @@ These are my solutions to leetcode practice problems.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mbouguer-source/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/mbouguer-source/leetcode-practice/tree/master/0009-palindrome-number) |
 ## Hash Table
 |  |
@@ -19,4 +20,12 @@ These are my solutions to leetcode practice problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mbouguer-source/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mbouguer-source/leetcode-practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mbouguer-source/leetcode-practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

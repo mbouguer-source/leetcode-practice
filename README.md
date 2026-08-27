@@ -28,4 +28,16 @@ These are my solutions to leetcode practice problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mbouguer-source/leetcode-practice/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mbouguer-source/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mbouguer-source/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mbouguer-source/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

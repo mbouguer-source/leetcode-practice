@@ -38,6 +38,7 @@ These are my solutions to leetcode practice problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mbouguer-source/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/mbouguer-source/leetcode-practice/tree/master/0011-container-with-most-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,4 +47,12 @@ These are my solutions to leetcode practice problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mbouguer-source/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mbouguer-source/leetcode-practice/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mbouguer-source/leetcode-practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

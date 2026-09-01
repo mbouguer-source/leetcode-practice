@@ -8,16 +8,19 @@ These are my solutions to leetcode practice problems.
 | ------- |
 | [0002-add-two-numbers](https://github.com/mbouguer-source/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/mbouguer-source/leetcode-practice/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/mbouguer-source/leetcode-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mbouguer-source/leetcode-practice/tree/master/0013-roman-to-integer) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mbouguer-source/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/mbouguer-source/leetcode-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mbouguer-source/leetcode-practice/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mbouguer-source/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/mbouguer-source/leetcode-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mbouguer-source/leetcode-practice/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
